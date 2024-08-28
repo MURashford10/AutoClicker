@@ -1,0 +1,1 @@
+This is a python code that will record where the user clicks in succession and then repeat that. It allows a wait time after a certain number of seconds the user puts in as well as how many times they would like to loop the clicks.
